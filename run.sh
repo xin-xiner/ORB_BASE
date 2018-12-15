@@ -1,0 +1,1 @@
+./Examples/RGB-D/rgbd_tum Vocabulary/ORBvoc.txt calib_data/calib_BOE.yaml /home/xin/Documents/Works/Projects/BOE/Data/rgbd_vehicle_2516/ //home/xin/Documents/Works/Projects/BOE/Data/rgbd_vehicle_2516/associations.txt
